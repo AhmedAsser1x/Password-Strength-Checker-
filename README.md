@@ -27,7 +27,8 @@ Built using **HTML, CSS, and JavaScript** with a clean and modern UI.
 
 ## 📷 Preview
 
-> (Add a screenshot of your project here)
+> <img width="1038" height="734" alt="Screenshot 2026-05-24 16314" src="https://github.com/user-attachments/assets/bdd7b936-064a-440f-a70f-02e253ca7310" />
+
 
 ---
 
@@ -35,4 +36,4 @@ Built using **HTML, CSS, and JavaScript** with a clean and modern UI.
 
 > Add your GitHub Pages link here after deployment
 
-Example:
+Example: https://chatgpt.com/c/6a12eae4-b4a0-83eb-a27f-73969ec2748a
